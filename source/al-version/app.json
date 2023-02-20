@@ -1,0 +1,39 @@
+{
+  "id": "165481ab-839a-4275-8d3d-3da1ed9815d6",
+  "name": "DC Sales order register",
+  "publisher": "github.com/document-capture",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "Enable Document Capture to auto. register sales order attachments and link them to an existing sales order",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "./res/images/logo.png",
+  "dependencies": [
+    {
+      "id": "6da8dd2f-e698-461f-9147-8e404244dd85", 
+      "name": "Continia Document Capture", 
+      "publisher": "Continia Software", 
+      "version": "7.2.0.1"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "21.0.0.0",
+  "idRanges": [
+    {
+      "from": 61190,
+      "to": 61199
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "10.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
